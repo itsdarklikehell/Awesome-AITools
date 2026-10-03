@@ -1,7 +1,8 @@
 # Release Notes
 
-## 2026-10-02
+## 2026-10-03
 
+* docs: update RELEASE_NOTES.md (374e05f)
 * chore: add missing GitHub files (00d2500)
 * feat: add Gource visualization video + README section (a1636ed)
 * docs: add Gource development visualization section to README (3833e15)
@@ -21,4 +22,3 @@
 * Merge branch 'main' of https://github.com/ikaijua/Awesome-AITools (dc65674)
 * ci: add Gource visualization workflow (54fd735)
 * Update/sept model updates (#1018) (fcd94f7)
-* Update/grok 4.7 (#1017) (c32cbf1)
